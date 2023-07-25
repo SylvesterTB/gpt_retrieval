@@ -22,3 +22,5 @@ Test reading `README.md` in the data folder file.
 Yes, the KUKA VPN can be used in Vagrant. You can install and use the VPN in the KUKA Vagrant Box by following the provided instructions
 ```
 ![Alt text](image.png)
+
+for more info visit https://blog.langchain.dev/tutorial-chatgpt-over-your-data/
